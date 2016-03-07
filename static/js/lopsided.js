@@ -958,7 +958,7 @@ var overlay = new function() {
 		var fixed = true;
 
 		var n = {
-			fill : "#00000",
+			fill : "#000000",
 			x : 0,
 			xfixed : 0,
 			y : 0,
@@ -970,7 +970,7 @@ var overlay = new function() {
 
 		var makeCircle = function(x, y) {
 			var n = {
-				fill : "#00000",
+				fill : "#000000",
 				x : x,
 				xfixed :x,
 				y : y,
@@ -1323,7 +1323,7 @@ var Gravitron = function() {
 		r = Math.ceil(geometry.width/156);
 	}
 
-	var main = g.append("circle").attr("r", 9).attr("fill","#ffffff");
+	var main = g.append("circle").attr("r", 9).attr("fill","#000000");
 	var mainY = function() { return -200; }
 	main.attr("cy", mainY());
 
@@ -1354,7 +1354,7 @@ var Gravitron = function() {
 	var makeCircle = function(x, y) {
 		var circle = g.append("circle")
 			.attr("r", 0)
-			.attr("fill", "#FFFFFF")
+			.attr("fill", "#000000")
 			.attr("cx", x)
 			.attr("cy", y);
 
@@ -1457,7 +1457,7 @@ var Spreading = function() {
 
 	var r = 9;
 
-	var main = g.append("circle").attr("r", 9).attr("fill","#FFFFFF");
+	var main = g.append("circle").attr("r", 9).attr("fill","#000000");
 	var mainY = function() { return -200; }
 
 	var scrollTopMarker = 0;
