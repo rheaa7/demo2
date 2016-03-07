@@ -44,8 +44,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .sansserif, .moneyLabel {
-	font-family: "tablet-gothic-compressed",sans-serif;
+	font-family: "PT Sans Caption" ,sans-serif;
 	font-weight: 600;
+    
 }
 
 .serif {
@@ -57,7 +58,7 @@ h1, h2, h3, h4, h5, h6, .sansserif, .moneyLabel {
 
 }
 .primaryColor {
-	color: #FF8C2E;
+	color: #F7BAEE;
 }
 section {
 	padding: 0;
@@ -89,7 +90,7 @@ img.respond {
 	margin: 0;
 }
 #thankyou h1 span {
-	color: #C81700;
+	color: #baf7c3;
 }
 #thankyou p {
 	margin: 0.5em 0;
@@ -119,7 +120,7 @@ img.respond {
 	margin-bottom: 0.2em;
 }
 #moneywinselections span.a {
-	color: #FF8C2E;
+	color: #F7BAEE;
 	font-size: 1.4em;
 }
 #moneywinselections span.b {
@@ -145,7 +146,7 @@ img.respond {
 }
 #ninetyfivepercent span.b {
 	text-transform: uppercase;
-	color: #FF8C2E;
+	color: #F7BAEE;
 	line-height: 1.5em;
 }
 #ninetyfivepercent span.b1 {
@@ -192,7 +193,7 @@ img.respond {
 	color: #fff;
 }
 #electionSpender {
-	color: #FF8C2E;
+	color: #F7BAEE;
 }
 #electionUnderdog {
 	margin-top: 0.2em;
@@ -219,7 +220,7 @@ img.respond {
 }
 
 .didWin #didMoneyWin {
-	color: #FF8C2E;
+	color: #F7BAEE;
 }
 .didWin {
 	border: 5px solid #b56122;
@@ -328,7 +329,7 @@ img.respond {
 
 /* section: #policies */
 #policies {
-	background: #FF8C2E;
+	background: #F7BAEE;
 }
 
 #tinyGroup p {
@@ -393,7 +394,7 @@ img.respond {
 	position: relative;
 	margin: 0 0.05em 0 0;
 	line-height: 0.65em;
-	color: #FF8C2E;
+	color: #F7BAEE;
 }
 #ninetyfive span.c2 {
 	position: absolute;
@@ -402,7 +403,7 @@ img.respond {
 	font-size: 0.3em;
 	display: block;
 	line-height: 0.1em;
-	color: #FF8C2E;
+	color: #F7BAEE;
 }
 #ninetyfive span.d {
 	padding-top: 1em;
@@ -488,7 +489,7 @@ span.lobbyingSum {
 
 /* section: #rigged; */
 #rigged {
-	background: #FF8C2E;
+	background: #F7BAEE;
 	color: #fff;
 	letter-spacing: 0.05em;
 }
@@ -500,7 +501,7 @@ span.lobbyingSum {
 	font-size: 2.3em;
 }
 #butWeCanFixIt {
-	color: #C81700;
+	color: #baf7c3;
 }
 
 #InfluenceTheyDeserve {
@@ -550,7 +551,7 @@ span.lobbyingSum {
 #theAACA span.a1a,
 #RestoreBalance span.a,
 #ChangeTheFunders strong {
-	color: #C81700;
+	color: #baf7c3;
 }
 #RestoreBalance span.b {
 	color: #101938;
@@ -564,7 +565,7 @@ span.lobbyingSum {
 }
 #ChangeTheFunders em {
 	font-style: normal;
-	color: #C81700;
+	color: #baf7c3;
 	line-height: 1;
 }
 #particles,
@@ -580,10 +581,10 @@ span.lobbyingSum {
 	line-height: 1.3em;
 }
 #ThirtyBillion strong {
-	color: #C81700;	
+	color: #baf7c3;	
 }
 #ThirtyBillion .c1 {
-	color: #C81700;
+	color: #baf7c3;
 }
 #ThirtyBillion .b1 {
 	font-size: 1.6em;
@@ -608,7 +609,7 @@ span.lobbyingSum {
 	line-height: 1;
 	margin-top: 0.2em;
 	display: block;
-	color: #C81700;
+	color: #baf7c3;
 }
 #particle {
 	float: right;
@@ -636,7 +637,7 @@ span.lobbyingSum {
 	font-size: 1.3em;
 	display: block;
 	line-height: 1;
-	color: #C81700;
+	color: #baf7c3;
 	margin-top: 0.05em;
 }
 
@@ -648,7 +649,7 @@ span.lobbyingSum {
 	padding: 0;
 }
 #ShareTitle h2 {
-	color: #C81700;
+	color: #baf7c3;
 	text-transform: uppercase;
 	line-height: 1;
 }
@@ -685,7 +686,7 @@ span.lobbyingSum {
 	display: block;
 	font-family: "tablet-gothic-compressed",sans-serif;
 	margin-top: 1em;
-	color: #C81700;
+	color: #baf7c3;
 }
 #unknown_user input {
 	background: transparent;
@@ -713,7 +714,7 @@ button#id_aksubmit {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	padding: 0.5em 0 0.3em;
-	background: #C81700;
+	background: #baf7c3;
 	background-image:-moz-linear-gradient(top, #C81700, #a31708);
 	background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#C81700), to(#a31708));
 	background-image:-webkit-linear-gradient(top, #C81700, #a31708);
@@ -1110,7 +1111,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 		display: block;
 	}
 	#ThirtyBillion strong {
-		color: #C81700;	
+		color: #baf7c3;	
 	}
 	#ThirtyBillion .a1,
 	#ThirtyBillion .a2 {
@@ -1127,7 +1128,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 		text-align: right;
 	}
 	#ThirtyBillion .c1 {
-		color: #C81700;
+		color: #baf7c3;
 		font-size: 1.8em;
 	}
 	#ThirtyBillion .d {
@@ -1188,7 +1189,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	}
 
 	#ShareTitle h2 {
-		color: #C81700;
+		color: #baf7c3;
 		font-size: 6em;
 		margin: 0.7em 0 0;
 	}
