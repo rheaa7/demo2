@@ -329,14 +329,17 @@ img.respond {
 	border-top: 3px solid #000;
 	width: 100%;
 	margin-top: -0.6em;
+    color: white;
 }
 #contribute68percent span.d,
 #contribute68percent span.e {
 	text-transform: uppercase;
 	font-size: 3em;
+    color: white;
 }
 #contribute68percent span.e {
 	float: right;
+    color: white;
 }
 
 /* section: #policies */
