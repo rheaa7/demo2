@@ -452,7 +452,7 @@ img.respond {
 }
 .lobbyingContext {
 	line-height: 1.0em; 
-	color: #000; 
+	color: white; 
 	margin-bottom: 0.1em; 
 	font-size: 1.62em;
 	display: block;
@@ -460,7 +460,7 @@ img.respond {
 .lobbyingStance {
 	font-size: 1.6em;
 	line-height: 1.7em;
-	color: #000;
+	color: white;
 	text-transform: uppercase;
 }
 .lobbyingStance span {
