@@ -319,8 +319,9 @@ img.respond {
 	margin-bottom: 1.4em;
 }
 #contribute68percent span.c span {
-	background: #e1e1e1;
+	/*background: #e1e1e1;*/
 	padding: 0 0.2em;
+    color: white;
 }
 #contribute68percent span.c:after {
 	content: " ";
