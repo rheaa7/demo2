@@ -227,10 +227,10 @@ img.respond {
 	color: #F7BAEE;
 }
 .didWin {
-	border: 5px solid #b56122;
+	border: 5px solid #F7BAEE;
 }
 #electionOverlay.didWin:after {
-	border-top-color: #b56122;
+	border-top-color: #F7BAEE;
 }
 
 .didnotWin #didMoneyWin {
