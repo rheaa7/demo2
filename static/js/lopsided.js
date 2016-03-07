@@ -1824,7 +1824,7 @@ var ElectionsGraphic = function() {
 			// 		return scaledSize > textMin ? scaledSize : textMin;
 			// 	})
 			// 	.attr("class", "moneyLabel")
-			// 	.attr("fill", "#000000")
+			// 	.attr("fill", "#F7199E")
 			// 	.attr("y", function(d) {
 			// 		return d.radius*0.5;
 			// 	})
