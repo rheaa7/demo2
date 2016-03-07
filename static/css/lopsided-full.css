@@ -106,7 +106,7 @@ img.respond {
 	display: none;
 }
 #moneywinselections {
-	position: relative;
+	position: center;
 	z-index: 600;
 	padding-bottom: 0;
 }
@@ -115,7 +115,7 @@ img.respond {
 }
 #moneywinselections h1 {
 	font-size: 4.3em;
-	letter-spacing: -0.04em;
+	/*letter-spacing: -0.04em;*/
 	line-height: 1em;
 	margin-bottom: 0.2em;
 }
@@ -123,17 +123,18 @@ img.respond {
 	color: #F7BAEE;
 	font-size: 1.4em;
 }
-#moneywinselections span.b {
+/*#moneywinselections span.b {
 	font-size: 0.75em;
 }
 #moneywinselections span.c {
 	font-size: 1.3em;
 	display: block;
-}
+}*/
+
 #moneywinselections span.a,
-#moneywinselections span.c {
+/*#moneywinselections span.c {
 	text-transform: uppercase;
-}
+}*/
 #fourhundredthirtyfive p,
 #ninetyfivepercent p {
 	font-size: 2.2em;
@@ -816,7 +817,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	}
 
 	/* Section:Intro */
-	#elections .pane {
+	/*#elections .pane {
 		margin: 0 0 0 4em;
 		padding: 0.6em 2.5em 0.3em 2.5em;
 		border-radius: 2em;
@@ -825,7 +826,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 		position: absolute;
 		z-index: 600;
 		box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
-	}
+	}*/
 	#elections .electionStats {
 		float: left;
 		clear: left;
