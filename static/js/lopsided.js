@@ -1323,7 +1323,7 @@ var Gravitron = function() {
 		r = Math.ceil(geometry.width/156);
 	}
 
-	var main = g.append("circle").attr("r", 9).attr("fill","#F7199E");
+	var main = g.append("circle").attr("r", 9).attr("fill","#D200DA");
 	var mainY = function() { return -200; }
 	main.attr("cy", mainY());
 
