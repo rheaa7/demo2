@@ -538,8 +538,8 @@ span.lobbyingSum {
 
 #theAct {
 	background: #222;
-	color: #B1A7AF;
-}
+	color: white;
+}   
 
 #theAACA {
 	width: 18em;
@@ -612,7 +612,7 @@ span.lobbyingSum {
 	font-size: 0.8em;
 }
 #ThirtyBillion .d a {
-	color: #555;
+	color: white;
 }
 #OutMatch {
 	max-width: 25em;
