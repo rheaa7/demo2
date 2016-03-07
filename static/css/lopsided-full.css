@@ -24,7 +24,7 @@ html{
 
 body {
 	/*background: #ddd;*/
-    background-image: "back.jpg";
+    background-image: "/back.jpg";
 	margin: 0;
 	padding: 0;
 }
