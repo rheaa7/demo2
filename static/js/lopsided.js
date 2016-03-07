@@ -1354,7 +1354,7 @@ var Gravitron = function() {
 	var makeCircle = function(x, y) {
 		var circle = g.append("circle")
 			.attr("r", 0)
-			.attr("fill", "#000000")
+			.attr("fill", "#F7199E")
 			.attr("cx", x)
 			.attr("cy", y);
 
