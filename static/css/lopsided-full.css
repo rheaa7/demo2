@@ -268,11 +268,11 @@ img.respond {
 	font-size: 2.6em;
 	line-height: 0.7em;
 	letter-spacing: -0.05em;
-    color: #F7BAEE;
+    /*color: #F7BAEE;*/
 }
 #lessthanone span.b1 {
 	font-size: 2.5em;
-    color: white;
+    color: #F7BAEE;
 }
 #lessthanone span.b2 {
 	font-size: 1.5em;
