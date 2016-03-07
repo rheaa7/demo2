@@ -99,7 +99,8 @@ img.respond {
 
 /* Section: elections; */
 #elections {
-	background: #FFFFFF;
+	/*background: #FFFFFF;*/
+    background-image: "back.jpg";
 	color: #110a09;
 }
 #electionsContainer {
@@ -122,7 +123,7 @@ img.respond {
 #moneywinselections span.a {
 	color: #F7BAEE;
 	font-size: 1.4em;
-    text-shadow:2px 2px 2px #aaa;
+    /*text-shadow:2px 2px 2px #aaa;*/
 }
 /*#moneywinselections span.b {
 	font-size: 0.75em;
