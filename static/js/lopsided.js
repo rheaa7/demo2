@@ -976,7 +976,7 @@ var overlay = new function() {
 				y : y,
 				yfixed : y,
 				radius : r,
-                opacity : 0.2%,
+               
 			}
 			nodes.push(n);
 		}
