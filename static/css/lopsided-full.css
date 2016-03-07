@@ -100,7 +100,8 @@ img.respond {
 /* Section: elections; */
 #elections {
 	/*background: #FFFFFF;*/
-      background-image: url("back.jpg");
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
 	color: #110a09;
 }
 #electionsContainer {
@@ -139,7 +140,7 @@ img.respond {
 }*/
 #fourhundredthirtyfive p,
 #ninetyfivepercent p {
-	font-size: 1.2em;
+	font-size: 1.0em;
 	line-height: 1.2em;
 }
 #fourhundredthirtyfive em,
@@ -410,7 +411,7 @@ img.respond {
 }
 #ninetyfive span.d {
 	padding-top: 1em;
-	line-height: 1.2em;
+	line-height: 1.0em;
 	display: block;
 }
 #explodingDot {
@@ -436,7 +437,7 @@ img.respond {
 	line-height: 1.3em;
 }
 .lobbyingContext {
-	line-height: 1.2em; 
+	line-height: 1.0em; 
 	color: #000; 
 	margin-bottom: 0.1em; 
 	font-size: 1.62em;
@@ -483,7 +484,7 @@ span.lobbyingSum {
 	font-size: 0.7em;
 	margin: 0 auto;
 	color: #aaa;
-	line-height: 1.2em
+	line-height: 1.0em
 }
 .source a {
 	color: #ccc;
