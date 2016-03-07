@@ -1824,7 +1824,7 @@ var ElectionsGraphic = function() {
 			// 		return scaledSize > textMin ? scaledSize : textMin;
 			// 	})
 			// 	.attr("class", "moneyLabel")
-			// 	.attr("fill", "#ffffff")
+			// 	.attr("fill", "#000000")
 			// 	.attr("y", function(d) {
 			// 		return d.radius*0.5;
 			// 	})
@@ -1840,7 +1840,7 @@ var ElectionsGraphic = function() {
 			    .attr("r", function(d) { return d.radius - 2; })
 			    .attr("opacity", 0)
 			    .attr("fill", function(d) { 
-			    	return "#ffffff"; 
+			    	return "#000000"; 
 			    })
 			    .on('click', function(d) {
 					PubSub.publish("electionCard", d);
