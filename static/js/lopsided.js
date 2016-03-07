@@ -893,7 +893,7 @@ var riggedDot = new function() {
 			if(scrollTop > full) {
 				changeColor("#FFFFFF");
 			} else {
-				changeColor("#FF8C2E");
+				changeColor("#EA83DB");
 			}
 		}
 	});
@@ -1217,7 +1217,7 @@ var LobbyingDataVis = function(selector) {
 
 	var bubbleFor = gFor.append("circle")
 		.attr("r", 8)
-		.attr("fill", "#FF8C2E");
+		.attr("fill", "#EA83DB");
 
 
 	var gAgainst = svg.append("g")
@@ -1231,7 +1231,7 @@ var LobbyingDataVis = function(selector) {
 
 	var bubbleAgainst = gAgainst.append("circle")
 		.attr("r", 80)
-		.attr("fill", "#FF8C2E");
+		.attr("fill", "#00D0FE");
 
 
 	var crFor, crAgainst, lineHeight;
