@@ -1029,7 +1029,7 @@ var overlay = new function() {
 
 		c = g.append("circle")
 			.attr("r", r0)
-			.attr("fill", "#FF8C2E");
+			.attr("fill", "#00D0FE");
 
 
 		// var r = overlay.r;
@@ -1791,7 +1791,7 @@ var ElectionsGraphic = function() {
 				//.attr("opacity", 0)
 				.attr("fill", function(obj) {
 					if(obj.race.candidates[0].winner) {
-						return "#FF8C2E";
+						return "#00D0FE";
 					} else {
 						return "none";	
 					}
