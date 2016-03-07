@@ -1840,7 +1840,7 @@ var ElectionsGraphic = function() {
 			    .attr("r", function(d) { return d.radius - 2; })
 			    .attr("opacity", 0)
 			    .attr("fill", function(d) { 
-			    	return "#000000"; 
+			    	return "#F7199E"; 
 			    })
 			    .on('click', function(d) {
 					PubSub.publish("electionCard", d);
