@@ -23,7 +23,7 @@ html{
 
 
 body {
-	background: #ffffff;
+	background: #01033B;
 	margin: 0;
 	padding: 0;
 }
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6, .sansserif, .moneyLabel {
 section {
 	padding: 0;
 	overflow: hidden;
-	background: #ffffff;
+	background: #01033B;
 	position: relative;
 }
 .pane, .intropane {
@@ -439,7 +439,7 @@ img.respond {
 #keystone .issue,
 #cispa .issue {
 	/*background: #555 url("../img/grey_wash_wall.png");*/
-    background: #222;
+    background: #01033B;
 }
 .issue h2 {
 	color: #000;
