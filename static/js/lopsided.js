@@ -970,7 +970,7 @@ var overlay = new function() {
 
 		var makeCircle = function(x, y) {
 			var n = {
-				fill : "#000000",
+				fill : "#F7199E",
 				x : x,
 				xfixed :x,
 				y : y,
@@ -1323,7 +1323,7 @@ var Gravitron = function() {
 		r = Math.ceil(geometry.width/156);
 	}
 
-	var main = g.append("circle").attr("r", 9).attr("fill","#000000");
+	var main = g.append("circle").attr("r", 9).attr("fill","#F7199E");
 	var mainY = function() { return -200; }
 	main.attr("cy", mainY());
 
