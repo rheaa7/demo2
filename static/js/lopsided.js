@@ -970,12 +970,13 @@ var overlay = new function() {
 
 		var makeCircle = function(x, y) {
 			var n = {
-				fill : "#D200DA",
+				fill : "#F7199E",
 				x : x,
 				xfixed :x,
 				y : y,
 				yfixed : y,
 				radius : r,
+                opacity : 0.2%
 			}
 			nodes.push(n);
 		}
