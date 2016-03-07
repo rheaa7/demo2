@@ -538,7 +538,7 @@ span.lobbyingSum {
 
 #theAct {
 	background: #222;
-	color: #444;
+	color: #B1A7AF;
 }
 
 #theAACA {
@@ -1172,9 +1172,9 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	#particleAnimation {
 		padding: 0;
 	}
-	#InfluenceTheyDeserve {
-		font-size: 5em;
-	}
+	/*#InfluenceTheyDeserve {
+		
+	}*/
 
 	#fixCongress,
 	#OneMillionCosponsors span.a1,
