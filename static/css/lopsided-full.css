@@ -1022,7 +1022,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	.lobbyingContext {
 		display: inline-block; 
 		line-height: 2em; 
-		color: #000; 
+		color: white; 
 		margin-bottom: 0.1em; 
 		font-size: 1.62em;
 		border-top: 4px solid #000;
@@ -1030,7 +1030,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	.lobbyingStance {
 		font-size: 1.8em;
 		line-height: 1.7em;
-		color: #000;
+		color: white;
 		text-transform: uppercase;
 		display: inline-block;
 		border-bottom: 4px solid #000;
