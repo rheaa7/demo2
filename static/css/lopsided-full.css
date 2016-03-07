@@ -858,7 +858,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 	#socialTriggers {
 		margin-top: 2em;
 	}
-	/*
+	
 	#moneywinselections:after {
 		content: "";
 		position: absolute;
@@ -869,7 +869,7 @@ a#TumblrShare {color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background
 		border-left: 10.75em solid transparent;
 		border-right: 10.75em solid transparent;
 	}
-	*/
+	
 
 	#electionsContainer {
 		clear: both;
