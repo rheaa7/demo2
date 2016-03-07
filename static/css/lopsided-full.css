@@ -507,7 +507,7 @@ span.lobbyingSum {
 
 /* section: #rigged; */
 #rigged {
-	background: #01033B;
+	background-color: #01033B;
 	color: #fff;
 	letter-spacing: 0.05em;
 }
@@ -519,7 +519,7 @@ span.lobbyingSum {
 	font-size: 2.3em;
 }
 #butWeCanFixIt {
-	color: #baf7c3;
+	color: black;
 }
 
 #InfluenceTheyDeserve {
