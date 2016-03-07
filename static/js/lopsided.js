@@ -314,7 +314,7 @@ var slides = new function() {
 			issues.attr("style", "");
 			spacer.attr("style", "");
 			moneyPanes.attr("style", "");
-			rigged.attr("style", "background-color: rgb(1, 3, 59)");
+			rigged.attr("style", "";
 			theAct.attr("style", "");
 			appeal.attr("style", "");
 			shareText.attr("style", "");
@@ -893,7 +893,7 @@ var riggedDot = new function() {
 			if(scrollTop > full) {
 				changeColor("#FFFFFF");
 			} else {
-				changeColor("#EA83DB");
+				changeColor("#01033B");
 			}
 		}
 	});
