@@ -1518,7 +1518,7 @@ var Spreading = function() {
 	var makeCircle = function(x, y) {
 		var circle = g.append("circle")
 			.attr("r", 0)
-			.attr("fill", "#FFFFFF")
+			.attr("fill", "#000000")
 			.attr("cx", x)
 			.attr("cy", y);
 
