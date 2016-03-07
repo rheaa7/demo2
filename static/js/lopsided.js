@@ -859,7 +859,7 @@ var riggedDot = new function() {
 		g = svg.append("g").attr("transform", "translate("+geometry.width/2+","+geometry.height/2+")");
 
 		c = g.append("circle")
-			.attr("fill", "#F7199E")
+			.attr("fill", "#EA83DB")
 			.attr("r", 0);
 
 		div = $("#rigged");
@@ -958,7 +958,7 @@ var overlay = new function() {
 		var fixed = true;
 
 		var n = {
-			fill : "#F7199E",
+			fill : "#EA83DB",
 			x : 0,
 			xfixed : 0,
 			y : 0,
@@ -1354,7 +1354,7 @@ var Gravitron = function() {
 	var makeCircle = function(x, y) {
 		var circle = g.append("circle")
 			.attr("r", 0)
-			.attr("fill", "#F7199E")
+			.attr("fill", "#EA83DB")
 			.attr("cx", x)
 			.attr("cy", y);
 
@@ -1824,7 +1824,7 @@ var ElectionsGraphic = function() {
 			// 		return scaledSize > textMin ? scaledSize : textMin;
 			// 	})
 			// 	.attr("class", "moneyLabel")
-			// 	.attr("fill", "#F7199E")
+			// 	.attr("fill", "#EA83DB")
 			// 	.attr("y", function(d) {
 			// 		return d.radius*0.5;
 			// 	})
@@ -1840,7 +1840,7 @@ var ElectionsGraphic = function() {
 			    .attr("r", function(d) { return d.radius - 2; })
 			    .attr("opacity", 0)
 			    .attr("fill", function(d) { 
-			    	return "#F7199E"; 
+			    	return "#EA83DB"; 
 			    })
 			    .on('click', function(d) {
 					PubSub.publish("electionCard", d);
