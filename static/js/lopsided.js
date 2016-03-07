@@ -859,7 +859,7 @@ var riggedDot = new function() {
 		g = svg.append("g").attr("transform", "translate("+geometry.width/2+","+geometry.height/2+")");
 
 		c = g.append("circle")
-			.attr("fill", "#000000")
+			.attr("fill", "#F7199E")
 			.attr("r", 0);
 
 		div = $("#rigged");
@@ -958,7 +958,7 @@ var overlay = new function() {
 		var fixed = true;
 
 		var n = {
-			fill : "#000000",
+			fill : "#F7199E",
 			x : 0,
 			xfixed : 0,
 			y : 0,
