@@ -314,7 +314,7 @@ var slides = new function() {
 			issues.attr("style", "");
 			spacer.attr("style", "");
 			moneyPanes.attr("style", "");
-			rigged.attr("style", "background-color: black");
+			rigged.attr("style", "background-color: rgb(1, 3, 59)");
 			theAct.attr("style", "");
 			appeal.attr("style", "");
 			shareText.attr("style", "");
