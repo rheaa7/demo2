@@ -23,7 +23,8 @@ html{
 
 
 body {
-	background: #ddd;
+	/*background: #ddd;*/
+    background-image: "back.jpg";
 	margin: 0;
 	padding: 0;
 }
@@ -99,8 +100,7 @@ img.respond {
 
 /* Section: elections; */
 #elections {
-	/*background: #FFFFFF;*/
-    background-image: "back.jpg";
+	background: #FFFFFF;
 	color: #110a09;
 }
 #electionsContainer {
