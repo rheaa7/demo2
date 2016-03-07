@@ -958,7 +958,7 @@ var overlay = new function() {
 		var fixed = true;
 
 		var n = {
-			fill : "#fff",
+			fill : "#00000",
 			x : 0,
 			xfixed : 0,
 			y : 0,
@@ -970,7 +970,7 @@ var overlay = new function() {
 
 		var makeCircle = function(x, y) {
 			var n = {
-				fill : "#fff",
+				fill : "#00000",
 				x : x,
 				xfixed :x,
 				y : y,
