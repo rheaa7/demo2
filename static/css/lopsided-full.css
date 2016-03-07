@@ -245,7 +245,7 @@ img.respond {
 
 /* Section: onepercent */
 #onepercent {
-	background: #010777;
+	background: #01033B;
 }
 
 #lessthanone {
@@ -261,22 +261,27 @@ img.respond {
 	text-indent: 0.2em;
 	margin-bottom: 0.75em;
 	line-height: 1em;
+    color: white;
 }
 #lessthanone span.b {
 	text-transform: uppercase;
 	font-size: 2.6em;
 	line-height: 0.7em;
 	letter-spacing: -0.05em;
+    color: white;
 }
 #lessthanone span.b1 {
 	font-size: 2.5em;
+    color: white;
 }
 #lessthanone span.b2 {
 	font-size: 1.5em;
+    color: white;
 }
 #lessthanone span.d {
 	margin-top: 0.4em;
 	text-indent: 0.1em;
+    color: white;
 }
 
 #contribute68percent {
@@ -289,6 +294,7 @@ img.respond {
 	/*text-transform: uppercase;*/
 	margin-bottom: 0.9em;
 	text-align: center;
+    color: white;
 }
 #contribute68percent span.b {
 	font-size: 16.8em;
@@ -302,7 +308,7 @@ img.respond {
 }
 #contribute68percent span.b span {
 	font-size: 0.55em;
-	color: #000;
+	color: white;
 }
 #contribute68percent span.c {
 	display: block;
