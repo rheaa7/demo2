@@ -438,7 +438,8 @@ img.respond {
 #food .issue, 
 #keystone .issue,
 #cispa .issue {
-	background: #555 url("../img/grey_wash_wall.png");
+	/*background: #555 url("../img/grey_wash_wall.png");*/
+    background: #222;
 }
 .issue h2 {
 	color: #000;
@@ -536,7 +537,7 @@ span.lobbyingSum {
 }
 
 #theAct {
-	background: #999;
+	background: #222;
 	color: #444;
 }
 
